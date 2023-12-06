@@ -1,0 +1,32 @@
+﻿  BoulangerGame.cpp
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+D:\C++\BoulangerGame\BoulangerGame\Inventory.h(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  EntitiesCatalog.cpp
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+D:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(17,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(19,33): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(21,33): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(23,29): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(25,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Food.cpp
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+  Game.cpp
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+D:\C++\BoulangerGame\BoulangerGame\Inventory.h(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+D:\C++\BoulangerGame\BoulangerGame\Game.cpp(40,21): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Ingredient.cpp
+  Inventory.cpp
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+D:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+D:\C++\BoulangerGame\BoulangerGame\Inventory.h(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Génération de code en cours
+D:\C++\BoulangerGame\BoulangerGame\Game.cpp(126): warning C4715: 'Game::ContinueTheAction' : les chemins de contrôle ne retournent pas tous une valeur
+  251 of 259 functions (96.9%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  BoulangerGame.vcxproj -> D:\C++\BoulangerGame\x64\Release\BoulangerGame.exe

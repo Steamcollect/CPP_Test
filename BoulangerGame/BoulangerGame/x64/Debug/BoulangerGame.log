@@ -1,0 +1,76 @@
+﻿  BoulangerGame.cpp
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,20): error C2061: erreur de syntaxe : identificateur 'string'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(7,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Food.h(7,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): error C3646: 'ingredientRequire' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,26): error C2143: erreur de syntaxe : absence de ',' avant '['
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,28): error C2238: jetons inattendus avant ';'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(12,15): error C2061: erreur de syntaxe : identificateur 'string'
+  EntitiesCatalog.cpp
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,20): error C2061: erreur de syntaxe : identificateur 'string'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(7,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Food.h(7,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): error C3646: 'ingredientRequire' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,26): error C2143: erreur de syntaxe : absence de ',' avant '['
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,28): error C2238: jetons inattendus avant ';'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(12,15): error C2061: erreur de syntaxe : identificateur 'string'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(18,7): error C2660: 'Ingredient::SetIngrdient' : la fonction ne prend pas 2 arguments
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,7): message : voir la déclaration de 'Ingredient::SetIngrdient'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(18,7): message : lors de la tentative de mise en correspondance de la liste des arguments '(const char [6], double)'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(20,8): error C2660: 'Ingredient::SetIngrdient' : la fonction ne prend pas 2 arguments
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,7): message : voir la déclaration de 'Ingredient::SetIngrdient'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(20,8): message : lors de la tentative de mise en correspondance de la liste des arguments '(const char [7], double)'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(22,8): error C2660: 'Ingredient::SetIngrdient' : la fonction ne prend pas 2 arguments
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,7): message : voir la déclaration de 'Ingredient::SetIngrdient'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(22,8): message : lors de la tentative de mise en correspondance de la liste des arguments '(const char [7], double)'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(24,6): error C2660: 'Ingredient::SetIngrdient' : la fonction ne prend pas 2 arguments
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,7): message : voir la déclaration de 'Ingredient::SetIngrdient'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(24,6): message : lors de la tentative de mise en correspondance de la liste des arguments '(const char [5], double)'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(26,14): error C2660: 'Ingredient::SetIngrdient' : la fonction ne prend pas 2 arguments
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,7): message : voir la déclaration de 'Ingredient::SetIngrdient'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(26,14): message : lors de la tentative de mise en correspondance de la liste des arguments '(const char [14], double)'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(29,7): error C2660: 'Food::SetFood' : la fonction ne prend pas 3 arguments
+E:\C++\BoulangerGame\BoulangerGame\Food.h(12,7): message : voir la déclaration de 'Food::SetFood'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(29,7): message : lors de la tentative de mise en correspondance de la liste des arguments '(const char [6], double, std::string *)'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(31,12): error C2660: 'Food::SetFood' : la fonction ne prend pas 3 arguments
+E:\C++\BoulangerGame\BoulangerGame\Food.h(12,7): message : voir la déclaration de 'Food::SetFood'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(31,12): message : lors de la tentative de mise en correspondance de la liste des arguments '(const char [12], double, std::string *)'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(33,12): error C2660: 'Food::SetFood' : la fonction ne prend pas 3 arguments
+E:\C++\BoulangerGame\BoulangerGame\Food.h(12,7): message : voir la déclaration de 'Food::SetFood'
+E:\C++\BoulangerGame\BoulangerGame\EntitiesCatalog.cpp(33,12): message : lors de la tentative de mise en correspondance de la liste des arguments '(const char [11], int, std::string *)'
+  Food.cpp
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,20): error C2061: erreur de syntaxe : identificateur 'string'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+  Ingredient.cpp
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,20): error C2061: erreur de syntaxe : identificateur 'string'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(7,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Food.h(7,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): error C3646: 'ingredientRequire' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,26): error C2143: erreur de syntaxe : absence de ',' avant '['
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,28): error C2238: jetons inattendus avant ';'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(12,15): error C2061: erreur de syntaxe : identificateur 'string'
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.cpp(4,18): error C2511: 'void Ingredient::SetIngrdient(std::string,float)' : impossible de trouver la fonction membre surchargée dans 'Ingredient'
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(2,7): message : voir la déclaration de 'Ingredient'
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.cpp(5,2): error C2671: 'Ingredient::SetIngrdient' : les fonctions membres static n'ont pas de pointeurs 'this'
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.cpp(6,2): error C2671: 'Ingredient::SetIngrdient' : les fonctions membres static n'ont pas de pointeurs 'this'
+  Inventory.cpp
+E:\C++\BoulangerGame\BoulangerGame\Inventory.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(5,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Ingredient.h(8,20): error C2061: erreur de syntaxe : identificateur 'string'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(7,9): error C3646: 'name' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Food.h(7,13): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,9): error C3646: 'ingredientRequire' : spécificateur de substitution inconnu
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,26): error C2143: erreur de syntaxe : absence de ',' avant '['
+E:\C++\BoulangerGame\BoulangerGame\Food.h(10,28): error C2238: jetons inattendus avant ';'
+E:\C++\BoulangerGame\BoulangerGame\Food.h(12,15): error C2061: erreur de syntaxe : identificateur 'string'
+  Génération de code en cours...
